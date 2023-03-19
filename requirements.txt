@@ -1,3 +1,4 @@
 fastapi
+scipy~=1.9.3
 rembg
 uvicorn
