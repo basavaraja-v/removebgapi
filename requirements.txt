@@ -1,3 +1,4 @@
 fastapi
 rembg
-gunicorn
+uvicorn
+mangum
