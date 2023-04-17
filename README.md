@@ -7,6 +7,9 @@
 
 # How To Use in macOS 
 ```
+Clone the repo and cd to removebgapi-main
+```
+```
 $python3.9 -m venv rmbg_venv
 ```
 ```
