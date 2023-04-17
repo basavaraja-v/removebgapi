@@ -49,3 +49,5 @@ Released under the [MIT license](https://github.com/royaldevops/months-list/blob
 Thank you to the following contributors for their contributions to this project:
 
 - [John Smith](https://github.com/royaldevops)
+- [<img src="https://avatars.githubusercontent.com/u/32273986?v=4" width="60px;"/><br /><sub><a href="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }})
+
