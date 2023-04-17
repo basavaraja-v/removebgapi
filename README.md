@@ -1,5 +1,7 @@
-# Example:
+# Examples:
 <img src="https://github.com/royaldevops/removebackground/blob/main/assets/0.png"/>
+
+<img src="https://github.com/royaldevops/removebgapi/blob/main/4.png"/>
 
 # How To Use in macOS 
 ```
