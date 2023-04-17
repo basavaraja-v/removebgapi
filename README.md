@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/rajdivya)
+
 # Examples:
 <img src="https://github.com/royaldevops/removebackground/blob/main/assets/0.png"/>
 
@@ -16,3 +18,25 @@ $pip install -r requirements.txt
 ```
 $uvicorn main:app
 ```
+
+## Follow me on twitter
+[Basavaraja](https://twitter.com/BasavarajaV2)
+
+## Support
+
+**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/1500) for developing and maintaining this.**
+
+<p align="center">
+  <a href="https://www.paypal.me/rajdivya">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
+
+## Author
+
+**Basavaraja V**
+## License
+
+Copyright © 2023, [Basavaraja V](https://github.com/royaldevops).
+Released under the [MIT license](https://github.com/BaSaVaRaJaV/months-list/blob/master/LICENSE).
+***
