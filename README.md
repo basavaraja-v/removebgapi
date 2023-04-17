@@ -27,7 +27,7 @@ $uvicorn main:app
 
 ## Support
 
-**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/1500) for developing and maintaining this.**
+**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/10) for developing and maintaining this.**
 
 <p align="center">
   <a href="https://www.paypal.me/rajdivya">
