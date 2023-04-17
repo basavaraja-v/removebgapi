@@ -43,3 +43,9 @@ $uvicorn main:app
 Copyright © 2023, [Basavaraja V](https://github.com/royaldevops).
 Released under the [MIT license](https://github.com/royaldevops/months-list/blob/master/LICENSE).
 ***
+
+## Contributors
+
+Thank you to the following contributors for their contributions to this project:
+
+- [John Smith](https://github.com/royaldevops)
