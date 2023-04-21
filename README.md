@@ -1,5 +1,14 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/rajdivya)
+# Description:
+Our Background Removal FastAPI is a powerful tool that allows you to easily remove backgrounds from images with lightning-fast speed and exceptional accuracy. Built on the popular FastAPI framework, our app is designed to handle a high volume of requests with ease, making it perfect for businesses and organizations of all sizes.
 
+With our FastAPI, you can remove backgrounds from images in just a few seconds, and with our advanced algorithms, you'll get precise and accurate results every time. Plus, our app is easy to integrate into your existing workflow, with comprehensive documentation and support available.
+
+Our FastAPI supports a wide range of image formats, including JPEG, PNG, and can handle both simple and complex images. Whether you're removing a plain background or a complex background with multiple objects, our FastAPI will get the job done quickly and efficiently.
+
+In addition to background removal, our FastAPI also offers a range of image editing tools, such as color adjustment, cropping, and resizing, so you can create the perfect image for your needs.
+
+Try our Background Removal FastAPI today and experience the power of fast and accurate image processing!
 # Examples:
 <img src="https://github.com/royaldevops/removebackground/blob/main/assets/0.png"/>
 
